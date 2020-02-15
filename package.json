@@ -1,0 +1,12 @@
+{
+  "name": "serverless-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:prophen/serverless-todo.git",
+  "author": "Nikema Prophet <nikema.prophet@popschools.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces":[
+    "packages/*"
+  ]
+}
