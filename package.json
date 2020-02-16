@@ -9,7 +9,5 @@
   "workspaces": [
     "packages/*"
   ],
-  "dependencies": {
-    "faunadb": "^2.11.1"
-  }
+  "dependencies": {}
 }
