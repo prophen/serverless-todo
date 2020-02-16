@@ -6,7 +6,10 @@
   "author": "Nikema Prophet <nikema.prophet@popschools.com>",
   "license": "MIT",
   "private": true,
-  "workspaces":[
+  "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "faunadb": "^2.11.1"
+  }
 }
